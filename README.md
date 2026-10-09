@@ -251,3 +251,19 @@ Python Full-Stack Developer · SDE Intern
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:0D1117&height=100&section=footer" width="100%" alt="Footer banner"/>
 
 </div>
+
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/ErRishabh023/ErRishabh023/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/ErRishabh023/ErRishabh023/output/github-snake.svg"/>
+    <img alt="GitHub contribution snake animation"
+      src="https://raw.githubusercontent.com/ErRishabh023/ErRishabh023/output/github-snake.svg"
+      width="100%"/>
+  </picture>
+</div>
+
